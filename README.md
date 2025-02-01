@@ -1,5 +1,8 @@
 # Quiz Flow with Gamification
 
+## Objective
+Develop a web-based quiz application with gamification features, fetching quiz data from the provided API endpoint, and presenting it through an intuitive and engaging user interface (You can take inspiration from Testline App)
+
 ## Overview
 A web-based quiz application that fetches questions from an API, displays them with multiple-choice options, and calculates scores.
 
@@ -14,5 +17,7 @@ A web-based quiz application that fetches questions from an API, displays them w
 - CSS
 - JavaScript
 
+##Given API:
+https://api.jsonserve.com/Uw5CrX
 
 ---Abhignya Gitti
