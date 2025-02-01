@@ -17,7 +17,8 @@ A web-based quiz application that fetches questions from an API, displays them w
 - CSS
 - JavaScript
 
-##Given API:
+## Given API Key
 https://api.jsonserve.com/Uw5CrX
 
----Abhignya Gitti
+## Author 
+Abhignya Gitti
