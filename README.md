@@ -14,14 +14,5 @@ A web-based quiz application that fetches questions from an API, displays them w
 - CSS
 - JavaScript
 
-## Setup
-1. Clone the repo:
 
-
-2. Open `index.html` in a browser.
-
-## Demo
-(Screenshots and a walkthrough video link here)
-
-## Author
-[Your Name]
+---Abhignya Gitti
